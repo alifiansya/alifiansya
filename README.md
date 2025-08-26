@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a software developer who enjoys working with AI, backend systems, and ⚡ blazingly fast ⚡ web stacks. Most of my projects revolve around building efficient APIs, experimenting with data processing and modeling, and trying out new frameworks.  
+
+I use **BASE** Stack the most for my Fullstack Dev, consisting of Bun, Astro, Supabase, and ElysiaJS. On the side, I like working with robotics and machine learing for fun.
